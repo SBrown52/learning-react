@@ -22,5 +22,4 @@ class Time extends React.Component {
 
 ReactDOM.render( < App/>, document.getElementById('root'));
 ReactDOM.render( < Paragraph/>, document.getElementById('para'));
-
-ReactDOM.render( < Time/>, document.getElementById('root'));
+ReactDOM.render( < Time/>, document.getElementById('time'));
